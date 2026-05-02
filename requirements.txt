@@ -1,0 +1,12 @@
+langchain>=0.0.335
+torch>=2.0.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+huggingface-hub
+pypdf>=3.0.0
+accelerate>=0.24.0
+llama-cpp-python>=0.2.0
+transformers>=4.35.0
+qdrant-client>=1.6.0
+PyPDF2>=3.0.0
+openai>=1.0.0
